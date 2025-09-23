@@ -8,7 +8,8 @@ Projeto em Arduino (linguagem C) para criação de um robô autônomo que navega
 
 Autores: 
 
-Reginaldo Tirolla Filho 
+Reginaldo Tirolla Filho
+Anderson Wilmer Yapiticona Flores
 
 
 
