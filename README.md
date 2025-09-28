@@ -13,7 +13,7 @@ A detecção de obstáculos será realizada com o sensor HC-SR04, que calcula a 
 
 O controle do robô será programado em linguagem C, utilizando a biblioteca distance-sensor de Tin Dao, que facilita a leitura dos dados do sensor. O programa deverá interpretar os valores retornados pelo sensor e aplicar uma lógica de decisão — seguir em frente, parar, dar ré ou desviar, controlando os motores para que o robô percorra o labirinto sem colidir com os obstáculos.
 
-<h3 align=>Foto ilustrativa do projeto: </h3>
+<h3 align=>Ilustração do projeto: </h3>
 
 <h3 align=>Autores:</h3> 
 
