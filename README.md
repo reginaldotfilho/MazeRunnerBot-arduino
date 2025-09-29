@@ -26,7 +26,7 @@ Ryan Ferreira de Lima
 <h3 align=>Componentes principais:</h3>
 
 - Base 2WD
-- 4 suportes de motor em acrilico
+- 4 suportes de motor em acrílico
 - Suporte para quatro pilhas
 - Roda boba
 - Chave liga e desliga
