@@ -41,23 +41,29 @@ Ryan Ferreira de Lima
 <h3 align=>Como começar / Instruções básicas:</h3>
 
 1° passo:
+
 remover o motor da caixa de redução
 
 2°passo:
+
 soldar os fios nos motores
 
 3°passo:
+
 após a montagem colocar de volta os motores na caixa
 
 4°passo:
+
 testar as rodas e suporte de pilhas (ligando os fios dos motores diretamente nos fios do suporte de pilha)
 
 5°passo:
+
 Componetes iniciais
 - 4 suportes em acrilico
 - 4 parafusos e suas porcas
 
 6°passo:
+
 Encaixar o suporte em acrilico na base
 - Colocar 2 suporte em volta do motor
 - Fazer os 2 parafusos grandes passar entre os suportes e motor, fechando com as suas porcas
@@ -65,35 +71,45 @@ Encaixar o suporte em acrilico na base
 OBS: os fios dos motores devem ficar posicionados para dentro da base****
 
 7°passo:
+
 - Repetir os passos para montar o 2° motor (5° e 6° passo)
 
 8°passo:
+
 Encaixar a roda boba na base
 - usar parafusos e espaçadores
 - usar porcas para fechar os parafusos na roda boba
 
 9°passo:
+
 Plugar cada econders (2 unidades) na caixinha dos 2 motores (lado de dentro)
 
 10°passo:
+
 Plugar cada roda (2 unidades) na caixinha dos motores (lado de fora)
 
 11°passo:
+
 Passar os fios dos motores para o lado de cima da base
 
 12°passo:
+
 Encaixar a chave de liga/desliga na base (cima)
 
 13°passo:
+
 Encaixar o suporte com as pilhas na base
 
 14°passo:
+
 Posicionar o arduino na base
 
 15°passo:
+
 Posicionar a mini placa de ensaio na base
 
 16°passo:
+
 Posicionar todas as peças antes de fixar usando 2 fios para saber o alcançe da mini placa de ensaio com o arduino
 
 
