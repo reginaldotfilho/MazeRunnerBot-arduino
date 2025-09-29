@@ -25,7 +25,19 @@ Ryan Ferreira de Lima
 
 <h3 align=>Componentes principais:</h3>
 
-
+Componetes de um kit de chassi robótico:
+- Base 2WD
+- 4 suportes de motor
+- Suporte para quatro pilhas
+- Roda boba
+- Chave liga e desliga
+- Duas rodas
+- 2 motores e suas caixas
+- 2 caixas de redução
+- 4 Parafusos grandes para caixa de redução
+- 4 parafusos pequenos com 4 espaçadores para roda boba
+- 2 rodas Econders
+- CI l239D
 
 <h3 align=>Como começar / Instruções básicas:</h3>
 
