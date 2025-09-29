@@ -26,6 +26,8 @@ Ryan Ferreira de Lima
 <h3 align=>Componentes principais:</h3>
 
 - Base 2WD
+- Arduino UNO R3
+- Mini placa de ensaio
 - 4 suportes de motor em acrílico
 - Suporte para quatro pilhas
 - Roda boba
