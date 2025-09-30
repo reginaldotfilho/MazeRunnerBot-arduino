@@ -41,79 +41,61 @@ Ryan Ferreira de Lima
 - 2 rodas Econders
 - CI l239D
 
-<h3 align=>Como começar / Instruções básicas:</h3>
+<h3 align=>Montagem do Kit 2WD:</h3>
 
-1° passo:
-
-remover o motor da caixa de redução
-
-2°passo:
+<h3 align=>1°passo:</h3>
 
 soldar os fios nos motores
 
+2°passo:
+
+colocar os motores na caixa de redução
+
 3°passo:
-
-após a montagem colocar de volta os motores na caixa
-
-4°passo:
 
 testar as rodas e suporte de pilhas (ligando os fios dos motores diretamente nos fios do suporte de pilha)
 
+4°passo: 
+
+![1](https://github.com/user-attachments/assets/7d069f6c-98a8-411b-bc6b-c1643f52c9a0)
+
+
 5°passo:
 
-Componetes iniciais
-- 4 suportes em acrilico
-- 4 parafusos e suas porcas
+![2](https://github.com/user-attachments/assets/32a21659-770e-4a64-a9d5-006d4066e962)
+
 
 6°passo:
 
-Encaixar o suporte em acrilico na base
-- Colocar 2 suporte em volta do motor
-- Fazer os 2 parafusos grandes passar entre os suportes e motor, fechando com as suas porcas
-
-OBS: os fios dos motores devem ficar posicionados para dentro da base****
+Plugar cada econders (2 unidades) na caixinha dos 2 motores (lado de dentro)
 
 7°passo:
 
-- Repetir os passos para montar o 2° motor (5° e 6° passo)
+Plugar cada roda (2 unidades) na caixinha dos motores (lado de fora)
 
 8°passo:
 
-Encaixar a roda boba na base
-- usar parafusos e espaçadores
-- usar porcas para fechar os parafusos na roda boba
+Passar os fios dos motores para o lado de cima da base
 
 9°passo:
 
-Plugar cada econders (2 unidades) na caixinha dos 2 motores (lado de dentro)
+![4](https://github.com/user-attachments/assets/3b206f9a-2a96-4f83-b729-15461fc57f3c)
+
 
 10°passo:
 
-Plugar cada roda (2 unidades) na caixinha dos motores (lado de fora)
+![3](https://github.com/user-attachments/assets/0428e926-b1d1-41f5-bbb2-62fddffd389e)
+
 
 11°passo:
 
-Passar os fios dos motores para o lado de cima da base
+![5](https://github.com/user-attachments/assets/57a28fa5-f337-4995-841b-412d618fb829)
 
 12°passo:
 
-Encaixar a chave de liga/desliga na base (cima)
+![6](https://github.com/user-attachments/assets/6f9a33a5-949a-45b6-b99c-a432e66f4f3a)
 
-13°passo:
 
-Encaixar o suporte com as pilhas na base
-
-14°passo:
-
-Posicionar o arduino na base
-
-15°passo:
-
-Posicionar a mini placa de ensaio na base
-
-16°passo:
-
-Posicionar todas as peças antes de fixar usando 2 fios para saber o alcançe da mini placa de ensaio com o arduino
 
 
 
