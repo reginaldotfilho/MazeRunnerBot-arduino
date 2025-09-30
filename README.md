@@ -29,7 +29,8 @@ Ryan Ferreira de Lima
 - Arduino UNO R3
 - Mini placa de ensaio
 - 4 suportes de motor em acrílico
-- Suporte para quatro pilhas
+- 2 suportes para pilhas
+- 6 pilhas de 1.5V
 - Roda boba
 - Chave liga e desliga
 - Duas rodas
