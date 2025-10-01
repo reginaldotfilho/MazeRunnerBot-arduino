@@ -25,9 +25,3 @@ Ryan Ferreira de Lima
 
 
 
-![6](https://github.com/user-attachments/assets/6f9a33a5-949a-45b6-b99c-a432e66f4f3a)
-
-
-
-
-
