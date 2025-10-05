@@ -17,9 +17,6 @@ O controle do robô será programado em linguagem C, utilizando a biblioteca dis
 
 <img width="500" height="500" alt="s" src="https://github.com/user-attachments/assets/14ce96ae-20f3-46d0-9dce-e106ef7ce66e" />
 
-
-
-
 <h3 align=>Autores:</h3> 
 
 Reginaldo Tirolla Filho
