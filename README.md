@@ -15,7 +15,8 @@ O controle do robô será programado em linguagem C, utilizando a biblioteca dis
 
 <h3 align=>Ilustração do projeto: </h3>
 
-<img width="500" height="500" alt="s" src="https://github.com/user-attachments/assets/14ce96ae-20f3-46d0-9dce-e106ef7ce66e" />
+<img width="3200" height="2400" alt="mazeRunnerBot" src="https://github.com/user-attachments/assets/714df0f5-3b6d-468a-ac45-a1f4a6f05dc9" />
+
 
 <h3 align=>Autores:</h3> 
 
