@@ -12,11 +12,26 @@ O objetivo deste projeto é permitir que qualquer pessoa, especialmente iniciant
 
 <img width="940" height="788" alt="Robô" src="https://github.com/user-attachments/assets/7b43e8a2-73fe-4299-9d5a-f639f7fabc89" />
 
-<h3 align=>Ferramentas utilizadas: </h3>
+<h3 align=>Ferramentas utilizadas </h3>
+Para desenvolver este projeto, utilizamos ferramentas simples e acessíveis para iniciantes:  
 
-- **IDE Arduino**: ambiente de programação utilizado para escrever, testar e enviar o código para o microcontrolador.  
-- **Tinkercad**: plataforma online que permite criar o **esquema elétrico do robô** e simular seu funcionamento de forma visual.  
-- **Biblioteca Distance-Sensor by Tidao**: utilizada para facilitar a leitura do sensor ultrassônico, permitindo que o código fique mais simples e fácil de entender.
+### 1. IDE Arduino
+- Link: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)  
+**Passo a passo para baixar e instalar:**  
+1. Acesse o link acima.  
+2. Clique na versão correspondente ao seu sistema operacional (Windows, Mac ou Linux).  
+3. Baixe o instalador.  
+4. Execute o instalador e siga as instruções para completar a instalação.  
+5. Abra a IDE e verifique se funciona corretamente.
+
+### 2. Tinkercad
+- Link: [https://www.tinkercad.com/](https://www.tinkercad.com/)  
+**Passo a passo para acessar:**  
+1. Acesse o link acima.  
+2. Clique em "Join Now" ou "Sign In".  
+3. Crie uma conta gratuita ou entre com sua conta existente.  
+4. No painel, escolha "Circuits" para criar e simular o esquema elétrico do robô.
+
 
 <h3 align=>Wiki:</h3>
 
