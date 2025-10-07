@@ -3,9 +3,7 @@
 
 <h1 align=>MazeRunnerBot</h1>
 
-Neste projeto prático, você vai criar um robô simples, capaz de navegar em um ambiente simulado, como um labirinto, detectando e desviando de obstáculos de forma automatizada. Para isso, será utilizado um sensor ultrassônico HC-SR04, que mede a distância à frente e decide quando mudar de direção automatica, garantindo um movimento sem colisões.
-
-O repositório é totalmente documentado, e todas as instruções detalhadas, incluindo materiais e passo a passo, estão disponíveis na **wiki** do projeto.
+Neste projeto de robótica educacional apresenta um robô móvel que utiliza um sensor ultrassônico HC-SR04, duas rodas motorizadas e é controlado por um microcontrolador (Arduino). A programação é feita em linguagem C, utilizando a biblioteca para facilitar a leitura do sensor ultrassônico.
 
 <h3 align=>Objetivo Principal</h3>
 
