@@ -45,5 +45,7 @@ Para seguir o projeto passo a passo, incluindo lista de materiais, montagem do c
 
 - Ryan Ferreira de Lima
 
+- **Objetivo do repositório:** educacional e de aprendizado em robótica.
+
 
 
