@@ -1,7 +1,7 @@
 /**
- Projeto Arduino - Robô 
- MazeRunnerBot
-  @authores Reginaldo , Anderson e Ryan
+ Projeto Arduino - Robô com um sonar HC-SR04
+ Nome: MazeRunnerBot
+  @authores Reginaldo Filho , Anderson Wilmmer e Ryan Ferreira
 */
 
 // Uso da biblioteca Distance-Sensor by Tin Dao (HC-SR04)
@@ -26,18 +26,12 @@ void setup() {
 }
 
 void loop() {
-  // Testar o motor 1
-  //digitalWrite(5, LOW); //digitalWrite(pino, 0 ou LOW); (equivale ao GND)
-  //analogWrite(6, 255); //analogWrite(pino, valor); PWM (0 a 255) relacionado a velocidade
-  // Testar o motor 2
-  //digitalWrite(9, LOW); //digitalWrite(pino, 0 ou LOW); (equivale ao GND)
-  //analogWrite(10, 255); //analogWrite(pino, valor); PWM (0 a 255)
   // Uso do sensor
-  int distancia = sensor.tick();
+  int distancia = sensor.tick(); // faz a leitura do sensor
   if (distancia == sensor.NREADY) {
     return;
   }
-  // Teste do sensor
+ //Lógica do labirinto simples
   Serial.println(distancia);
   if(distancia < 10 && distancia != -2) {
   parar();
@@ -50,8 +44,8 @@ void loop() {
 
 }
 
-
 //Funções para movimentação do robô
+//Obs: fazer a regulagem de velocidade dos motores( PWM 0 a 255 maxímo)
 void moverFrente(){
   digitalWrite(5, LOW); //motor 1
   analogWrite(6, 255);  //motor 1
