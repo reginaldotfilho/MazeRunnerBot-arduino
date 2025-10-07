@@ -1,5 +1,3 @@
-```c
-
 /**
  Projeto Arduino - Robô 
  MazeRunnerBot
@@ -87,4 +85,4 @@ void girarDireita(){
   analogWrite(6, 255);  //motor 1
   digitalWrite(10, LOW); //motor 2
   analogWrite(9, 255); //motor 2
-}```
+}
