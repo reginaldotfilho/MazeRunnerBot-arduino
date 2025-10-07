@@ -18,11 +18,11 @@ O objetivo deste projeto é permitir que qualquer pessoa, especialmente iniciant
 
 - **IDE Arduino**: ambiente de programação utilizado para escrever, testar e enviar o código para o microcontrolador.  
 - **Tinkercad**: plataforma online que permite criar o **esquema elétrico do robô** e simular seu funcionamento de forma visual.  
-- **Biblioteca de sensores**: usada para facilitar a leitura do sensor ultrassônico, permitindo que o código fique mais simples e fácil de entender.
+- **Biblioteca Distance-Sensor by Tidao**: utilizada para facilitar a leitura do sensor ultrassônico, permitindo que o código fique mais simples e fácil de entender.
 
 <h3 align=>Wiki:</h3>
 
-Para seguir o projeto passo a passo, incluindo lista de materiais, montagem do circuito e programação do robô, visite a [Wiki do repositório]([https://github.com/seu-usuario/seu-repositorio/wiki](https://github.com/reginaldotfilho/MazeRunnerBot-arduino/wiki)).
+Para seguir o projeto passo a passo, incluindo lista de materiais, montagem do circuito e programação do robô, visite a [Wiki do repositório](https://github.com/reginaldotfilho/MazeRunnerBot-arduino/wiki)
 
 <h3 align=>Autores:</h3> 
 
