@@ -1,7 +1,7 @@
 /**
  Projeto Arduino - Robô com um sonar HC-SR04
  Nome: MazeRunnerBot
-  @authores Reginaldo Filho , Anderson Wilmmer e Ryan Ferreira
+  @authores Reginaldo Filho , Anderson Wilmer e Ryan Ferreira
 */
 
 // Uso da biblioteca Distance-Sensor by Tin Dao (HC-SR04)
