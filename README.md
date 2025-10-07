@@ -15,7 +15,7 @@ O controle do robô será programado em linguagem C, utilizando a biblioteca dis
 
 <h3 align=>Ilustração do projeto: </h3>
 
-<img width="2025" height="2531" alt="Robo" src="https://github.com/user-attachments/assets/fee8c85c-b116-473b-9298-7d9a08ecbba2" />
+<img width="675" height="844" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/773d102d-fd94-4f2c-ada4-97d449b6b233" />
 
 
 <h3 align=>Autores:</h3> 
